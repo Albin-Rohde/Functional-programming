@@ -1,0 +1,14 @@
+{
+  "name": "functionalprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functional.js",
+  "scripts": {
+    "test": "mocha functional.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
